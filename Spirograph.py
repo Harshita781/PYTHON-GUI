@@ -1,3 +1,4 @@
+# In this program Spirograph will be printed by turtle.
 import turtle as t
 import random
 tim = t.Turtle()
