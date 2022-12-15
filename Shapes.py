@@ -3,7 +3,7 @@ import random
 
 tim = t.Turtle()
 
-colours=["CornflowerBlue","DarkOrchid","IndianRed","DeepSkyBlue","LightSeaGreen","wheat","SlateGrey","SeaGreen"]
+colours=["CornflowerBlue","DarkOrchid","IndianRed","DeepSkyBlue","LightSeaGreen","wheat","SlateGrey","SeaGreen","Purple"]
 
 def shape(side):
     deg=360/side
